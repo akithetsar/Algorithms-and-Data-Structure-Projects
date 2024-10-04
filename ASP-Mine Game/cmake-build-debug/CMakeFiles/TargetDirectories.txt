@@ -1,0 +1,3 @@
+/cygdrive/c/Users/akith/CLionProjects/dz3p1/cmake-build-debug/CMakeFiles/dz3p1.dir
+/cygdrive/c/Users/akith/CLionProjects/dz3p1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/akith/CLionProjects/dz3p1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
